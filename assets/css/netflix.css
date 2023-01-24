@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.fundoPreto {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #141414;
+}
+
+.listaPerfis {
+    text-align: center;
+    border: 1px red;
+    position: absolute;
+    top: 20%;
+    height: 50vh;
+    width: 65vw;
+}
+
+.quem {
+    color: white;
+    font-weight: bold;
+    font-size: 1.6vw;
+    font-weight: lighter;
+    width: 100%;
+    border: red 1px;
+    letter-spacing: 2px;
+    font-family: 'Inter', sans-serif;
+}
+
+.allprofiles {
+    margin-top: 35px;
+    border: 1px red;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Inter', sans-serif;
+}
+
+span:hover {
+    color: #fff;
+}
+
+.profile1:hover {
+    border: 2px solid white;
+    color: #fff;
+}
+
+.profile2:hover {
+    border: 2px solid white;
+    color: #fff;
+}
+
+.profile3:hover {
+    border: 2px solid white;
+    color: #fff;
+}
+
+.profile4:hover {
+    border: 2px solid white;
+    color: #fff;
+}
+
+.profile5:hover {
+    border: 2px solid white;
+    color: #fff;
+}
+
+.profile1 {
+    margin-right: 25px;
+    size: 136.6;
+    border-radius: 4px;
+    line-height: 12.2833px;
+    background-size: cover;
+    background-image: url(http://occ-0-4687-185.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABXNWO3VJzij0-9g4qtsH7ESjB99VA3rHLXYe1ERYxBI4RQrw3UiZuBNAK2Der2sHjbx9OG5vsX2Pzs1QqD8Wezd63cAzFgEsa0YH.png?r=bb0);
+    height: 10vw;
+    width: 10vw;
+    border: 1px red;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.quadrado {
+    margin-left: 5px;
+    margin-right: 2vw;
+    width: 135px;
+    height: 162px;
+}
+
+.profilename1 {
+    position: relative;
+    top: 150px;
+    margin-top: 11px;
+    font-size: 1.3vw;
+    color: #808080;
+}
+
+.profilename2 {
+    font-size: 1.3vw;
+    position: relative;
+    margin-top: 11px;
+    top: 145px;
+    color: #808080;
+}
+
+.profilename3 {
+    font-size: 1.3vw;
+    position: relative;
+    margin-top: 11px;
+    top: 152px;
+    color: #808080;
+}
+
+.profilename4 {
+    font-size: 1.3vw;
+    position: relative;
+    top: 147px;
+    margin-top: 11px;
+    color: #808080;
+}
+
+.profilename5 {
+    font-size: 1.3vw;
+    position: relative;
+    top: 152px;
+    margin-top: 11px;
+    color: #808080;
+}
+
+.profile2 {
+    margin-right: 25px;
+    size: 136.6;
+    border-radius: 4px;
+    background-size: cover;
+    background-image: url(http://occ-0-4687-185.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABUqkQXwrmkP9j_dkldj4G9erBgfgTTt-ViNLdnlKtxv0ykG5Vls6p0k75huYHm48Rp32XpWAWjSebxQeNv4_x-wL4-t0sThyLGhO.png?r=4ae);
+    height: 10vw;
+    width: 10vw;
+    border: 1px red;
+}
+
+.profile3 {
+    margin-right: 25px;
+    size: 136.6;
+    border-radius: 4px;
+    background-size: cover;
+    background-image: url(http://occ-0-4687-185.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABU7sStut9kbG4BElrlweYlHq9NtE1k14U7yrp5Tr4d8gLeSPRjKcVgPbi3oGW9ruORHBzh2JT_H8zvQNXPsSsh6Pq_dz48YIK-UX.png?r=1b2);
+    height: 10vw;
+    width: 10vw;
+    border: 1px red;
+}
+
+.profile4 {
+    margin-right: 25px;
+    size: 136.6;
+    border-radius: 4px;
+    line-height: 12.2833px;
+    background-size: cover;
+    background-image: url(http://occ-0-4687-185.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABRnl7eM-YxQ36RGyoBL_IAusO7I8Lkp-J83lTAFkRs5VnXf5IDmxEhFONwg3HBJN1y71jpKc4omPBIuZhVGX1JHZbhL_qLP5VbUE.png?r=852);
+    height: 10vw;
+    width: 10vw;
+    border: 1px red;
+}
+
+.profile5 {
+    size: 136.6;
+    border-radius: 4px;
+    line-height: 12.2833px;
+    background-size: cover;
+    background-image: url(http://occ-0-4687-185.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABWSSskpeBlxJ7GJaJjs7wvQuDUYz9oUy1S2NXON039kW6sX_vKlS6gCgSzmB1eIBoygZwDnEtl-_muUJWsq9yltBAZt8UQUcFL6m.png?r=201);
+    height: 10vw;
+    width: 10vw;
+    border: 1px red;
+}
+
+.gerenciamento {
+    border:  2px red;
+    position: relative;
+    right: 10px;
+    bottom: 55px;
+}
+
+.gerenciar {
+    border: 1px solid grey;
+    color: grey;
+    cursor: pointer;
+    font-size: 1.3vw;
+    letter-spacing: 2px;
+    letter-spacing: 0;
+    margin: 2em 0 1em;
+    font-weight: 600;
+    padding: 0.5em 1.3em;
+    font-family: 'Inter', sans-serif;
+}
+
+.gerenciar:hover {
+    border: 1px solid #fff;
+    color: #fff;
+}
